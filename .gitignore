@@ -6,3 +6,6 @@ desktop.ini
 
 # Node (ha később kellene)
 node_modules/
+
+# Helyi fejlesztői beállítások
+.claude/
